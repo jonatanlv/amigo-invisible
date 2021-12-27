@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { init, shuffle } from "./components/utils";
 
-const SEED = 1;
+const SEED = 28748942;
 
 const codes = [
   // Fecha de nacimiento
