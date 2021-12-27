@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amigo-invisible/static/css/main.f204d653.css",
+    "main.js": "/amigo-invisible/static/js/main.15e64e09.js",
+    "static/js/787.dd4e832c.chunk.js": "/amigo-invisible/static/js/787.dd4e832c.chunk.js",
+    "index.html": "/amigo-invisible/index.html",
+    "main.f204d653.css.map": "/amigo-invisible/static/css/main.f204d653.css.map",
+    "main.15e64e09.js.map": "/amigo-invisible/static/js/main.15e64e09.js.map",
+    "787.dd4e832c.chunk.js.map": "/amigo-invisible/static/js/787.dd4e832c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f204d653.css",
+    "static/js/main.15e64e09.js"
+  ]
+}
